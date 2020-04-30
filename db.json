@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Ingerman Alejandro Cano Yunes",
+      "precio": "553",
+      "id": 15
+    },
+    {
+      "nombre": "rib eye",
+      "precio": 22,
+      "id": 16
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 17
+    }
+  ]
+}
